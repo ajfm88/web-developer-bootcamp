@@ -13,3 +13,4 @@
 |   07   |           [The World of CSS Selectors](https://github.com/ajfm88/web-developer-bootcamp/tree/main/07-the-world-of-css-selectors)           |      [Live Demo](https://the-world-of-css-selectors.onrender.com/)      |
 |   08   |                    [The CSS Box Model](https://github.com/ajfm88/web-developer-bootcamp/tree/main/08-the-css-box-model)                    |          [Live Demo](https://the-css-box-model.onrender.com/)           |
 |   09   | [Other Assorted Useful CSS Properties](https://github.com/ajfm88/web-developer-bootcamp/tree/main/09-other-assorted-useful-css-properties) | [Live Demo](https://other-assorted-useful-css-properties.onrender.com/) |
+|   10   |            [Responsive CSS & Flexbox](https://github.com/ajfm88/web-developer-bootcamp/tree/main/10-responsive-css-and-flexbox)            |      [Live Demo](https://responsive-css-and-flexbox.onrender.com)       |

@@ -17,3 +17,4 @@
 |   11   |                [Pricing Panel Project](https://github.com/ajfm88/web-developer-bootcamp/tree/main/11-pricing-panel-project)                |        [Live Demo](https://pricing-panel-project.onrender.com)         |
 |   12   |            [CSS Frameworks: Bootstrap](https://github.com/ajfm88/web-developer-bootcamp/tree/main/12-css-frameworks-bootstrap)             |       [Live Demo](https://css-frameworks-bootstrap.onrender.com)       |
 |   13   |              [Museum Of Candy Project](https://github.com/ajfm88/web-developer-bootcamp/tree/main/13-museum-of-candy-project)              |           [Live Demo](https://museum-of-candy.onrender.com)            |
+|   16   |           [JavaScript Decision Making](https://github.com/ajfm88/web-developer-bootcamp/tree/main/16-javascript-decision-making)           |      [Live Demo](https://javascript-decision-making.onrender.com)      |

@@ -1,6 +1,6 @@
 # 🖥️⌨️🖱️ The Web Developer Bootcamp 2022 💻🎧🎮
 
-## Colt Steele (Developer and Bootcamp Instructor) 👨‍🏫
+## [Colt Steele](https://www.linkedin.com/in/coltsteele) (Developer and Bootcamp Instructor) 👨‍🏫
 
 ### Source Code and Live Demos of each section and every project of the bootcamp. 👨🏽‍💻
 

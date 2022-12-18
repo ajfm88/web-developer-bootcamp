@@ -1,4 +1,4 @@
-# 🖥️⌨️🖱️ The Web Developer Bootcamp 2022 💻🎧🎮
+# 🖥️⌨️🖱️ [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp) 💻🎧🎮
 
 ## [Colt Steele](https://www.linkedin.com/in/coltsteele) (Developer and Bootcamp Instructor) 👨‍🏫
 

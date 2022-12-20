@@ -1,8 +1,8 @@
-# 🖥️⌨️🖱️ [The Web Developer Bootcamp 2022](https://www.udemy.com/course/the-web-developer-bootcamp) 💻🎧🎮
+# 🖥️⌨️🖱️ [The Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp) 💻🎧🎮
 
 ## [Colt Steele](https://www.linkedin.com/in/coltsteele) (Developer and Bootcamp Instructor) 👨‍🏫
 
-### Source Code and Live Demos of each section and every project of the bootcamp. 👨🏽‍💻
+### Source Code of each section and Live Demos of every project of the bootcamp. 👨🏽‍💻
 
 | Sect # |                                                                Section Name                                                                |                               Live Demo                                |
 | :----: | :----------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------: |
@@ -19,3 +19,4 @@
 |   13   |              [Museum Of Candy Project](https://github.com/ajfm88/web-developer-bootcamp/tree/main/13-museum-of-candy-project)              |           [Live Demo](https://museum-of-candy.onrender.com)            |
 |   16   |           [JavaScript Decision Making](https://github.com/ajfm88/web-developer-bootcamp/tree/main/16-javascript-decision-making)           |      [Live Demo](https://javascript-decision-making.onrender.com)      |
 |   19   |           [Repeating Stuff With Loops](https://github.com/ajfm88/web-developer-bootcamp/tree/main/19-repeating-stuff-with-loops)           |      [Live Demo](https://repeating-stuff-with-loops.onrender.com)      |
+|   24   |     [Introducing The World Of The DOM](https://github.com/ajfm88/web-developer-bootcamp/tree/main/24-introducing-the-world-of-the-dom)     |   [Live Demo](https://introducing-the-world-of-the-dom.onrender.com)   |

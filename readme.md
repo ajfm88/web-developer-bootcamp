@@ -21,3 +21,4 @@
 |   19   |           [Repeating Stuff With Loops](https://github.com/ajfm88/web-developer-bootcamp/tree/main/19-repeating-stuff-with-loops)           |      [Live Demo](https://repeating-stuff-with-loops.onrender.com)      |
 |   24   |     [Introducing The World Of The DOM](https://github.com/ajfm88/web-developer-bootcamp/tree/main/24-introducing-the-world-of-the-dom)     |   [Live Demo](https://introducing-the-world-of-the-dom.onrender.com)   |
 |   25   |        [The Missing Piece: DOM Events](https://github.com/ajfm88/web-developer-bootcamp/tree/main/25-the-missing-piece-dom-events)         |     [Live Demo](https://the-missing-piece-dom-events.onrender.com)     |
+|   26   |              [Score Keeper Code Along](https://github.com/ajfm88/web-developer-bootcamp/tree/main/26-score-keeper-code-along)              |       [Live Demo](https://score-keeper-code-along.onrender.com)        |

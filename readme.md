@@ -23,3 +23,4 @@
 |   25   |        [The Missing Piece: DOM Events](https://github.com/ajfm88/web-developer-bootcamp/tree/main/25-the-missing-piece-dom-events)         |     [Live Demo](https://the-missing-piece-dom-events.onrender.com)     |
 |   26   |              [Score Keeper Code Along](https://github.com/ajfm88/web-developer-bootcamp/tree/main/26-score-keeper-code-along)              |       [Live Demo](https://score-keeper-code-along.onrender.com)        |
 |   27   |             [Async JavaScript: Oh Boy!](https://github.com/ajfm88/web-developer-bootcamp/tree/main/27-async-javascript-oh-boy)             |       [Live Demo](https://async-javascript-oh-boy.onrender.com)        |
+|   28   |                       [AJAX And API's](https://github.com/ajfm88/web-developer-bootcamp/tree/main/28-ajax-and-apis)                        |            [Live Demo](https://ajax-and-apis.onrender.com)             |

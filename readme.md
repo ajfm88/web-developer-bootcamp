@@ -24,3 +24,4 @@
 |   26   |              [Score Keeper Code Along](https://github.com/ajfm88/web-developer-bootcamp/tree/main/26-score-keeper-code-along)              |       [Live Demo](https://score-keeper-code-along.onrender.com)        |
 |   27   |             [Async JavaScript: Oh Boy!](https://github.com/ajfm88/web-developer-bootcamp/tree/main/27-async-javascript-oh-boy)             |       [Live Demo](https://async-javascript-oh-boy.onrender.com)        |
 |   28   |                       [AJAX And API's](https://github.com/ajfm88/web-developer-bootcamp/tree/main/28-ajax-and-apis)                        |            [Live Demo](https://ajax-and-apis.onrender.com)             |
+|   29   |           [Prototypes, Classes, & OOP](https://github.com/ajfm88/web-developer-bootcamp/tree/main/29-prototypes-classes-and-oop)           |      [Live Demo](https://prototypes-classes-and-oop.onrender.com)      |

@@ -30,3 +30,4 @@
 |   40   |        [Middleware: The Key To Express](https://github.com/ajfm88/web-developer-bootcamp/tree/main/40-middleware-the-key-to-express)         |     [Live Demo](https://middleware-the-key-to-express.onrender.com)     |
 |   42   |       [Handling Errors In Express Apps](https://github.com/ajfm88/web-developer-bootcamp/tree/main/42-handling-errors-in-express-apps)       |    [Live Demo](https://handling-errors-in-express-apps.onrender.com)    |
 |   47   |             [Express Router & Cookies](https://github.com/ajfm88/web-developer-bootcamp/tree/main/47-express-router-and-cookies)             |      [Live Demo](https://express-router-and-cookies.onrender.com)       |
+|   48   |             [Express Session & Flash](https://github.com/ajfm88/web-developer-bootcamp/tree/main/47-express-router-and-cookies)              |       [Live Demo](https://express-session-and-flash.onrender.com)       |

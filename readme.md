@@ -32,3 +32,4 @@
 |   47   |             [Express Router & Cookies](https://github.com/ajfm88/web-developer-bootcamp/tree/main/47-express-router-and-cookies)             |      [Live Demo](https://express-router-and-cookies.onrender.com)       |
 |   48   |              [Express Session & Flash](https://github.com/ajfm88/web-developer-bootcamp/tree/main/48-express-session-and-flash)              |       [Live Demo](https://express-session-and-flash.onrender.com)       |
 |   50   |          [Authentication From "Scratch"](https://github.com/ajfm88/web-developer-bootcamp/tree/main/50-authentication-from-scratch)          |      [Live Demo](https://authentication-from-scratch.onrender.com)      |
+|   60   |                               [YelpCamp](https://github.com/ajfm88/web-developer-bootcamp/tree/main/YelpCamp)                                |            [Live Demo](https://yelpcamp-ajfm88.onrender.com)            |

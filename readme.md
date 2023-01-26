@@ -2,7 +2,7 @@
 
 ## [Colt Steele](https://www.linkedin.com/in/coltsteele) (Developer and Bootcamp Instructor) 👨‍🏫
 
-### Source Code of each section and Live Demos of every project of the bootcamp. 👨🏽‍💻
+### Source Code of each section and Live Demos of every project of the bootcamp 👨🏽‍💻
 
 | Sect # |                                                                 Section Name                                                                 |                                Live Demo                                |
 | :----: | :------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------: |
